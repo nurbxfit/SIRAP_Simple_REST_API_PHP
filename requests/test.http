@@ -1,0 +1,6 @@
+### TEST
+GET http://localhost/api/test
+
+
+### NOT FOund
+GET http://localhost/api/asdasdas

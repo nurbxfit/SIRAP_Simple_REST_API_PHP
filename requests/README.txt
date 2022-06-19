@@ -1,0 +1,1 @@
+# This request folder contains request script used by vscode extension 'REST Client'
